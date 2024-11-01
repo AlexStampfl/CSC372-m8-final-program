@@ -1,0 +1,2 @@
+Student{name= 'Alex', address= '231', GPA= '3.9'}
+Student{name= 'Jo', address= '356', GPA= '3.8'}
